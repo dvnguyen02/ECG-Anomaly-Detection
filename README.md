@@ -81,10 +81,4 @@ Key components:
 - Develop a user-friendly interface for medical professionals
 - Conduct clinical trials to further validate the model's performance
 
-## Contributing
 
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
